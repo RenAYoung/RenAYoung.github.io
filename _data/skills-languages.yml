@@ -22,3 +22,9 @@
   
 - name: C#
   weight: 3
+
+- name: HTML
+  weight: 1
+  
+- name: CSS
+  weight: 1
