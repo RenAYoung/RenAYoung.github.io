@@ -111,6 +111,8 @@ projects:
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
   id: "G-X71WLTRSVD"
+  
+future: true
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
