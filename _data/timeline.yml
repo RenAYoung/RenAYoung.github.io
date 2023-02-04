@@ -17,45 +17,37 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: University of Kentucky Computer Science Department
+  title-url: https://www.engr.uky.edu/research-faculty/departments/computer-science/students/courses
+  date: Aug 2021 - Present
+  subtitle: CS 115 Lab Instructor
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Python
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: University of Kentucky Horticulture Department
+  date: June 2020 - Present
+  subtitle: Researcher
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Python
+    - tag: R
+    - tag: tensorflow
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  
+- title: University of Kentucky
+  title-url: https://www.uky.edu/academics/bachelors/college-engineering/computer-science
+  date: Aug 2019 - Present
+  subtitle: B.S. Computer Science. 4.0. Minors: Math, Music Theory
+  timeline-side: left
+  
+- title: University of Kentucky Aramark Dining
+  date: Aug 2019 - Feb 2020
+  subtitle: Catering Worker
+  timeline-side: right
+    
+- title: Gatton Academy of Mathematics and Science
+  title-url: https://www.wku.edu/academy/
+  date: Aug 2017 - May 2019
+  subtitle: Student
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
