@@ -25,29 +25,4 @@
     - tag: Python
   timeline-side: right
 
-- title: University of Kentucky Horticulture Department
-  date: June 2020 - Present
-  subtitle: Researcher
-  tags:
-    - tag: Python
-    - tag: R
-    - tag: tensorflow
-  timeline-side: right
-  
-- title: University of Kentucky
-  title-url: https://www.uky.edu/academics/bachelors/college-engineering/computer-science
-  date: Aug 2019 - Present
-  subtitle: B.S. Computer Science. 4.0. Minors: Math, Music Theory
-  timeline-side: left
-  
-- title: University of Kentucky Aramark Dining
-  date: Aug 2019 - Feb 2020
-  subtitle: Catering Worker
-  timeline-side: right
-    
-- title: Gatton Academy of Mathematics and Science
-  title-url: https://www.wku.edu/academy/
-  date: Aug 2017 - May 2019
-  subtitle: Student
-  timeline-side: left
 
