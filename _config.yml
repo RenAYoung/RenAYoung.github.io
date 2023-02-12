@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, I'm Ren. Welcome! I am currently a Computer Science student at the University of Kentucky. I will be graduating in May of 2023. I love working with video game creation, and I hope to continue that in a professional setting. See below for some of projects, and click the demo links to play my games. Thanks!
+about_me_description: Hi, I'm Ren. Welcome! I am currently a Computer Science student at the University of Kentucky. I will be graduating in May of 2023. I love working with video game creation, and I hope to continue that in a professional setting. See below for some of my projects, and click the demo links to play my games. Thanks!
 
 # SKILLS SECTION
 # show_skills_card:
