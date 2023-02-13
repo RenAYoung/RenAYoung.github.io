@@ -13,7 +13,7 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Cluttered Mystery Robot 
+- name: Cluttered Mystery Robot Game
   descr: "Play as a little robot trying to clean up the factory you wake up in. Along the way uncover the mystery of how the factory got to such a state. See below for the Github page link. Note: There is a known issue with the movement of the robot. If you get stuck on a rock, rotate until you are fully facing away. "
   demo: https://renayoung.itch.io/cluttered-mystery-robot
   tags:
@@ -21,13 +21,13 @@
     - tag: C#
     - tag: 3D
 
-- name: Witch Conservation Society
+- name: Witch Conservation Society Game
   descr: "Play as a young witch who has been sent on your first mission. You arrive in a field after hearing about something scary happening in a nearby village. Find the ingredients to make potions that will help you access new surrounding areas, and eventually unlock the mysterious caverns."
-  demo: https://example.com/
+  demo: https://renayoung.itch.io/witch-conservation-society
   tags:
     - tag: Unity
     - tag: C#
     - tag: 2D
 
-- name: PharmaMania
+- name: PharmaMania 
   descr: ""
