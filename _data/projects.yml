@@ -30,7 +30,7 @@
     - tag: 2D
 
 - name: PharmaMania 
-  descr: "Senior design project. Working with The National Association of Boards of Pharmacy® (NABP®) to create educational and fun game for pharmacists to obtain Continuing Professional Education (CPE) credits. Created an app that simulated a pharmacy, with two mini-games for studying unit conversions. One was a swipe to match style game, and the other was a catch falling objects game."
+  descr: "Senior design project. Working with The National Association of Boards of Pharmacy® (NABP®) to create educational and fun game for pharmacists to obtain Continuing Professional Education (CPE) credits. Created an app that simulated a pharmacy, with two mini-games for studying unit conversions. One was a swipe to match style game, and the other was a catch falling objects game. Demo not freely available because of legal agreements."
   tags: 
     - tag: Unity
     - tag: C#
