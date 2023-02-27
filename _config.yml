@@ -104,7 +104,7 @@ projects:
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
     - MSPWorkshop
-    # - repo1-to-be-excluded
+    - Resume
     # - repo2-to-be-excluded
 
 # GOOGLE-ANALYTICS
