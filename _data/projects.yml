@@ -30,9 +30,18 @@
     - tag: 2D
 
 - name: PharmaMania 
-  descr: "Senior design project. Working with The National Association of Boards of Pharmacy® (NABP®) to create educational and fun game for pharmacists to obtain Continuing Professional Education (CPE) credits. Created an app that simulated a pharmacy, with two mini-games for studying unit conversions. One was a swipe to match style game, and the other was a catch falling objects game. Demo not freely available because of legal agreements."
+  descr: "Senior design project. Worked with The National Association of Boards of Pharmacy® (NABP®) to create educational and fun game for pharmacists to obtain Continuing Professional Education (CPE) credits. Created an app that simulated a pharmacy, with two mini-games for studying unit conversions. One was a swipe to match style game, and the other was a catch falling objects game. Demo not freely available because of legal agreements."
   tags: 
     - tag: Unity
     - tag: C#
     - tag: Mobile App
     - tag: 2D
+    - tag: Team
+    - tag: Jira
+
+- name: CS 498 Game Project
+  descr: "Group project for CS 498 class, which is a preparation class for Senior Design. Created game based around dungeon exploration, with object collection, fighting, enemies, and a connected storyline. See below for the Github page link."
+  tags:
+    - tag: Python
+    - tag: 2D
+    - tag: Team
