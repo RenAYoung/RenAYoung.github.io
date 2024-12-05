@@ -12,10 +12,10 @@
   weight: 4
 
 - name: Github
-  weight: 4
+  weight: 5
 
 - name: Jira
   weight: 3
 
-- name: Agile Methodology
+- name: Agile
   weight: 4
