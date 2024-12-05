@@ -28,3 +28,6 @@
   
 - name: CSS
   weight: 1
+
+- name: Javascript
+  weight: 2
