@@ -10,3 +10,12 @@
 
 - name: Unity
   weight: 4
+
+- name: Github
+  weight: 4
+
+- name: Jira
+  weight: 3
+
+- name: Agile Methodology
+  weight: 4
